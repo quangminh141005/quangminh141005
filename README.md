@@ -1,1 +1,1 @@
-hi, im minh!
+hi
